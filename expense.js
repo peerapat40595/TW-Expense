@@ -1,3 +1,4 @@
+$('#expenses_action_buttons > div > button')[0].click();
 // merchant
 $("#newExpense3_expenseForm > ol > li.merchantRow > input").val(merchant);
 // total
