@@ -7,17 +7,17 @@ var account = "TW Core Business"
 var opportunity = "People Support & Development"
 var project = "People Support & Development"
 var subProject = "TWer benefit (Expenses only)"
-var comment = "High Speed Internet 05/06/17 - 04/07/17"
+var comment = "High Speed Internet 05/08/17 - 04/09/17"
 
 // Telephone
-var merchant = "Triple T Internet"
+var merchant = "Dtac"
 var total = 373.43
 var category = "Telephone"
 var account = "TW Core Business"
 var opportunity = "People Support & Development"
 var project = "People Support & Development"
 var subProject = "TWer benefit (Expenses only)"
-var comment = "Telephone 11/06/17 - 10/07/17"
+var comment = "Telephone 11/08/17 - 10/09/17"
 
 // Currency Conversion Fees
 var merchant = "Currency Conversion Fees"
