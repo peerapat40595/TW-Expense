@@ -1,9 +1,7 @@
 // Telephone
-var merchant = "Dtac"
-var total = 373.43
-var category = "Telephone"
-var account = "TW Core Business"
-var opportunity = "People Support & Development"
-var project = "People Support & Development"
-var subProject = "TWer benefit (Expenses only)"
-var comment = "Telephone 11/08/17 - 10/09/17"
+var merchant = "AIS"
+var total = 3373.43
+var category = "High Speed Internet"
+var project = "AXA-THAILAND - Advisor Zone Phase 3"
+var milestone = "Delivery Assurance"
+var comment = "Team 4G Wifi at AXA project (12/04/18 - 11/05/18)"
